@@ -1,0 +1,35 @@
+{
+  "type":"Feature",
+  "properties":{
+  	"mag":1,
+  	"place":"15km S of Mammoth Lakes, California",
+  	"time":1505569993690,
+  	"updated":1505570883099,
+  	"tz":-480,
+    "url":"https://earthquake.usgs.gov/earthquakes/eventpage/nc72893226",
+    "detail":"https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc72893226.geojson",
+  	"felt":null,
+  	"cdi":null,
+  	"mmi":null,
+  	"alert":null,
+  	"status":"automatic",
+  	"tsunami":0,
+  	"sig":15,
+  	"net":"nc",
+  	"code":"72893226",
+  	"ids":",nc72893226,",
+  	"sources":",nc,",
+  	"types":",geoserve,nearby-cities,origin,phase-data,scitech-link,",
+  	"nst":11,
+  	"dmin":0.1041,
+  	"rms":0.04,
+  	"gap":197,
+  	"magType":"md",
+  	"type":"earthquake",
+  	"title":"M 1.0 - 15km S of Mammoth Lakes, California"
+  },
+  "geometry":{
+	"type":"Point","coordinates":[-118.9534988,37.5123329,-0.14]
+  },
+  "id":"nc72893226"
+}

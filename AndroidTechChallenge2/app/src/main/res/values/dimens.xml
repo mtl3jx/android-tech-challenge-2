@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- SPACING -->
+    <dimen name="table_heading_padding">5dp</dimen>
+    <dimen name="table_data_padding_LR">2dp</dimen>
+    <dimen name="table_margin">8dp</dimen>
+    <dimen name="button_padding">6dp</dimen>
+
+    <!-- FONT SIZE -->
+    <dimen name="table_heading_font_size">14dp</dimen>
+    <dimen name="table_data_font_size">12dp</dimen>
+    <dimen name="table_title_font_size">16dp</dimen>
+
+    <!-- COLUMN WIDTH -->
+    <dimen name="title_col_width">90dp</dimen>
+    <dimen name="latlon_col_width">75dp</dimen>
+    <dimen name="time_col_width">85dp</dimen>
+    <dimen name="table_height">390dp</dimen>
+
+    <!-- CHECKBOX -->
+    <dimen name="checkbox_margin">14dp</dimen>
+    <dimen name="checkbox_width">36dp</dimen>
+    <dimen name="button_font_size">12dp</dimen>
+
+    <!-- PROGRESS BAR -->
+    <dimen name="progress_bar_padding">64dp</dimen>
+    <dimen name="progress_bar_margin">64dp</dimen>
+    <dimen name="spinner_size">80dp</dimen>
+
+</resources>

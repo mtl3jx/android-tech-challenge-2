@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Earthquakes</string>
+    <string name="heading">Earthquakes in the Past 30 Days</string>
+
+    <!-- TABLE HEADINGS -->
+    <string name="table_heading_1">USGS Title</string>
+    <string name="table_heading_2">Latitude</string>
+    <string name="table_heading_3">Longitude</string>
+    <string name="table_heading_4">Time</string>
+
+    <!-- BUTTON -->
+    <string name="button_load_data">Reload Data</string>
+    <string name="button_select">Select All</string>
+    <string name="button_unselect">Unselect All</string>
+    <string name="button_del">Delete Rows</string>
+
+    <!-- PLACEHOLDER DATA -->
+    <string name="placeholder_title">M 1.7 - 38km NW of Talkeetna, Alaska</string>
+    <string name="placeholder_latitude">62.5696</string>
+    <string name="placeholder_longitude">-150.6324</string>
+    <string name="placeholder_time">2017-09-22 02:54:14</string>
+</resources>
